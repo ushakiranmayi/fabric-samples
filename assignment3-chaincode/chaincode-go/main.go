@@ -7,11 +7,7 @@ package main
 import (
 	"log"
 	"github.com/hyperledger/fabric-contract-api-go/contractapi"
-
-
-
-
-"chaincode"
+	"github.com/sravanthi-reddy/fabric-samples/assignment3-chaincode/chaincode-go/chaincode"
 )
 
 func main() {
